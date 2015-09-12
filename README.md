@@ -20,5 +20,5 @@
 ```
 
 #### Screenshot
-![alt tag](https://github.com/WeRockStar/Android-Floating-Label-Edittext/blob/master/device-2558-09-13-031742.png)
+![alt tag](https://github.com/WeRockStar/Android-Floating-Label-Edittext/blob/master/device-2558-09-13-034008.png)
 
