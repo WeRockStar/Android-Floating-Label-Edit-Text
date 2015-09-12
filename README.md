@@ -1,4 +1,5 @@
 #### XML Code
+```xml
     <android.support.design.widget.TextInputLayout
             android:id="@+id/inputUsernameLayout"
             android:layout_width="match_parent"
@@ -11,6 +12,8 @@
                 android:hint="username" />
 
     </android.support.design.widget.TextInputLayout>
+```
+
 #### build.gradle
 ```java
     compile 'com.android.support:design:23.0.1'
