@@ -18,3 +18,7 @@
 ```java
     compile 'com.android.support:design:23.0.1'
 ```
+
+#### Screenshot
+![alt tag](https://github.com/WeRockStar/Android-Floating-Label-Edittext/blob/master/device-2558-09-13-031742.png)
+
