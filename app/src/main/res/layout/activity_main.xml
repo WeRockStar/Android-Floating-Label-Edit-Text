@@ -42,7 +42,7 @@
                 android:id="@+id/edtUsername"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="username"
+                android:hint="Username"
                 android:maxEms="10"
                 android:minEms="2" />
 
@@ -58,7 +58,7 @@
                 android:id="@+id/edtPassword"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="password"
+                android:hint="Password"
                 android:inputType="textPassword"
                 android:maxEms="10"
                 android:minEms="2" />
@@ -75,12 +75,22 @@
                 android:id="@+id/edtEmail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="email"
+                android:hint="Email"
                 android:inputType="textEmailAddress"
                 android:maxEms="10"
                 android:minEms="2" />
 
         </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnSignup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/inputEmailLayout"
+            android:layout_marginTop="16dp"
+            android:background="@color/colorPrimary"
+            android:text="Sign Up"
+            android:textColor="#fff" />
     </RelativeLayout>
 
 
